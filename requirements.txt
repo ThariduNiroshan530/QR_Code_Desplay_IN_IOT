@@ -1,0 +1,7 @@
+pyodbc
+qrcode[pil]
+Pillow
+stripe
+
+
+#pip install -r requirements.txt
